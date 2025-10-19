@@ -4,7 +4,9 @@ function Home() {
   return (
     <section className="home">
       <h1>Welcome to Sunset Apartments</h1>
-      <p>Experience modern living with premium amenities and top-tier comfort.</p>
+      <p>
+        Experience modern living with premium amenities and top-tier comfort.
+      </p>
       <Link to="/amenities" className="btn">
         View Amenities
       </Link>

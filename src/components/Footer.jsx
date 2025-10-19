@@ -23,8 +23,7 @@ const Footer = () => {
   const contactInfo = {
     email: "aviationheights@gmail.com",
     phone: "+254 -7032-98-702/ +254-7132-18-583 ",
-    address:
-      "MWM4+J8P, Nairobi",
+    address: "MWM4+J8P, Nairobi",
   };
 
   return (
@@ -35,7 +34,9 @@ const Footer = () => {
             <span>AVIATION HEIGHTS</span>
           </Link>
           <h3>AVIATION HEIGHTS</h3>
-          <p>Experience the perfect blend of comfort, taste, and entertainment</p>
+          <p>
+            Experience the perfect blend of comfort, taste, and entertainment
+          </p>
           <div className="social-links">
             <a
               href={socialLinks.facebook}
@@ -102,7 +103,8 @@ const Footer = () => {
       </div>
       <div className="footer-bottom">
         <p>
-          &copy; {new Date().getFullYear()} Aviation Heights. All rights reserved.
+          &copy; {new Date().getFullYear()} Aviation Heights. All rights
+          reserved.
         </p>
       </div>
     </footer>

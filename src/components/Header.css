@@ -4,14 +4,14 @@
   top: 0;
   width: 100%;
   background: white;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   z-index: 1000;
   transition: all 0.3s ease;
 }
 
 .header.scrolled {
   background: #fff;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .header-container {
@@ -34,11 +34,11 @@
 }
 
 .logo-icon {
-  width: 40px;          /* adjust size as you like (e.g., 30px, 50px) */
+  width: 40px; /* adjust size as you like (e.g., 30px, 50px) */
   height: 40px;
-  border-radius: 50%;   /* makes it circular */
-  object-fit: cover;    /* ensures it doesn’t distort */
-  margin-right: 8px;    /* space beside text or other items */
+  border-radius: 50%; /* makes it circular */
+  object-fit: cover; /* ensures it doesn’t distort */
+  margin-right: 8px; /* space beside text or other items */
   vertical-align: middle; /* aligns nicely with text */
 }
 
