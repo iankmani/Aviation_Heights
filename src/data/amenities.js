@@ -29,7 +29,7 @@ const amenities = [
   {
     id: 4,
     name: "Rooftop",
-    image: "/src/assets/Rooftop.jpg",
+    image: "/images/Rooftop.jpg",
     description:
       "Beautiful rooftop garden for relaxation, social gatherings, and a panoramic city view.",
     details:
@@ -38,7 +38,7 @@ const amenities = [
   {
     id: 5,
     name: "Water Tank System",
-    image: "/src/assets/Water_Tank_System.jpg",
+    image: "/images/Water_Tank_System.jpg",
     description:
       "Reliable water storage system ensuring constant supply to all houses.",
     details:
@@ -47,7 +47,7 @@ const amenities = [
   {
     id: 6,
     name: "Smart Water System",
-    image: "/src/assets/Water_System.jpg",
+    image: "/images/Water_System.jpg",
     description:
       "Intelligent water distribution and monitoring system for efficient water usage.",
     details:
@@ -56,7 +56,7 @@ const amenities = [
   {
     id: 7,
     name: "Token System",
-    image: "/src/assets/Token_System.jpg",
+    image: "/images/Token_System.jpg",
     description:
       "Convenient prepaid electricity token system for all apartments.",
     details:
@@ -65,7 +65,7 @@ const amenities = [
   {
     id: 8,
     name: "Telephone Network Mast",
-    image: "/src/assets/Telephone_Network_Mast.jpg",
+    image: "/images/Telephone_Network_Mast.jpg",
     description:
       "In-house telephone network mast for strong and stable connectivity.",
     details:
@@ -74,7 +74,7 @@ const amenities = [
   {
     id: 9,
     name: "Solar Lighting System",
-    image: "/src/assets/Solar_Lighting_System.jpg",
+    image: "/images/Solar_Lighting_System.jpg",
     description:
       "Eco-friendly solar-powered lighting for outdoor and common areas.",
     details:
@@ -83,7 +83,7 @@ const amenities = [
   {
     id: 10,
     name: "Network Boosters",
-    image: "/src/assets/Network_ boosters.jpg",
+    image: "/images/Network_ boosters.jpg",
     description:
       "Advanced signal boosters strategically installed across the property.",
     details:
@@ -92,7 +92,7 @@ const amenities = [
   {
     id: 11,
     name: "Kids Playground",
-    image: "/src/assets/Kids_Playground_Aerial_View.jpg",
+    image: "/images/Kids_Playground_Aerial_View.jpg",
     description:
       "Safe and fun outdoor playground designed for children of all ages.",
     details:
@@ -101,7 +101,7 @@ const amenities = [
   {
     id: 12,
     name: "Security CCTV System",
-    image: "/src/assets/Indoor_Cameras.jpg",
+    image: "/images/Indoor_Cameras.jpg",
     description:
       "Comprehensive CCTV coverage across all entry points and common areas.",
     details:
@@ -110,7 +110,7 @@ const amenities = [
   {
     id: 13,
     name: "GSL Security",
-    image: "/src/assets/GSL_Security.jpg",
+    image: "/images/GSL_Security.jpg",
     description:
       "Professional on-site security provided by GSL Security Company.",
     details:
@@ -119,7 +119,7 @@ const amenities = [
   {
     id: 14,
     name: "DSTV & Aerial System",
-    image: "/src/assets/DSTV_And_Aerial.jpg",
+    image: "/images/DSTV_And_Aerial.jpg",
     description:
       "Integrated DSTV and Aerial system for high-quality television access.",
     details:
