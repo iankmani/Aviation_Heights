@@ -123,3 +123,12 @@
     gap: 2rem;
   }
 }
+
+.footer .contact-info a {
+  color: black;
+  text-decoration: none; /* optional: remove underline */
+}
+
+.footer .contact-info a:hover {
+  color: #333; /* slightly darker hover */
+}
