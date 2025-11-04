@@ -20,7 +20,7 @@ const amenities = [
   {
     id: 3,
     name: "Parking Area",
-    image: "/public/images/Aerial_View_Rear_Parking.jpg",
+    image: "/images/Aerial_View_Rear_Parking.jpg",
     description:
       "Spacious and secure parking area with CCTV surveillance and lighting.",
     details:
